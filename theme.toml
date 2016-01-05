@@ -1,0 +1,11 @@
+name = "Papyer"
+license = "MIT"
+description = "Payper is a minimal material design theme."
+homepage = "https://github.com/paralin/payper-theme"
+tags = ["blog", "minimal", "white"]
+features = ["blog", "google analytics", "pagination", "rss", "sharing options"]
+min_version = 0.14
+
+[author]
+  name = "Christian Stewart"
+  homepage = "http://paral.in"
